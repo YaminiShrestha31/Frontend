@@ -50,6 +50,10 @@ const user_palette = [
 	{
 		background : "purple",
 		color: "black"
+	},
+	{
+	         background : "#FF3333",
+	         color: "black"
 	}
 
 ]
